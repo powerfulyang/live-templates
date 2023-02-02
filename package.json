@@ -1,0 +1,24 @@
+{
+  "name": "live-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "escape": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/pro-components": "2.4.16",
+    "@umijs/max": "4.0.69",
+    "antd": "5.5.1",
+    "jotai": "2.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.7",
+    "typescript": "5.0.4"
+  }
+}
